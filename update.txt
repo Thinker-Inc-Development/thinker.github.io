@@ -1,3 +1,3 @@
-1.0.0.0
+1.0.1.0
 https://drive.google.com/file/d/1JbXKQzJHQhLe2APi4RVXXOo-RhkUZBCR/view?usp=sharing
-%n- First release
+%n- 何もない領域での誤検知対策にテンプレートマッチング後のフィルターの強度オフセット設定追加
